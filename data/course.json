@@ -1,0 +1,50 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Business",
+      "Business Ethics"
+    ],
+    [
+      "Business",
+      "Leadership"
+    ],
+    [
+      "Business",
+      "Management"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Comparative Literature"
+    ],
+    [
+      "Humanities",
+      "Philosophy",
+      "Ethics"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Fiction"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "3b529d11-7731-958d-bc28-db422ebbb200"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Leadership Stories: Literature, Ethics, and Authority",
+  "course_description": "This course explores how we use story to articulate ethical norms. The syllabus consists of short fiction, novels, plays, feature films and some non-fiction. Major topics include leadership and authority, professionalism, the nature of ethical standards, social enterprise, and questions of gender, cultural and individual identity, and work / life balance. Materials vary from year to year, but past readings have included work by Robert Bolt, Michael Frayn, Timothy Mo, Wole Soyinka, H. D. Thoreau, and others; films have included _Crouching Tiger, Hidden Dragon, Hotel Rwanda, The Descendants, Motorcycle Diaries, Three Kings_, and others. Draws on various professions and national cultures, and is run as a series of moderated discussions, with students centrally engaged in the teaching process.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.269",
+  "learning_resource_types": [
+    "Written Assignments",
+    "Activity Assignments"
+  ],
+  "title": "Course Metadata"
+}
